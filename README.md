@@ -1,4 +1,8 @@
  # Custom ArrayLayout with React and JsonForms
+<div style="text-align: center">
+    <img src="logo.png" >
+</div>
+
 
 This is a demo repository for my post on [Dev.to](https://dev.to/edge33/custom-arraylayout-with-react-and-jsonforms-2ch0)
 
