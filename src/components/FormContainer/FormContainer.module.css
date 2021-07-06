@@ -1,0 +1,8 @@
+.Container {
+  display: flex;
+}
+
+.Box {
+  display: inline-block;
+  width: 48%;
+}
