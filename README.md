@@ -1,3 +1,11 @@
+ # Custom ArrayLayout with React and JsonForms
+
+This is a demo repository for my post on [Dev.to](https://dev.to/edge33/custom-arraylayout-with-react-and-jsonforms-2ch0)
+
+It provides an example for rendering custom array layouts with [JsonForms](https://jsonforms.io)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
